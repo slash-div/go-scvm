@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Printn("Go Scratch VM")
+	fmt.Println("Go Scratch VM")
 }
